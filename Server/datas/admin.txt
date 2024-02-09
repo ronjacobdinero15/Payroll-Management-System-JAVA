@@ -1,0 +1,9 @@
+emp1// 123// John Wick// Software Development// Database administrator// Feb 05, 2024// new// new
+emp1// 123// John Wick// Software Development// Database administrator// Feb 06, 2024// 8// 864.00
+emp1// 123// John Wick// Software Development// Database administrator// Feb 07, 2024// 8// 864.00
+emp2// 123// Mark Zuckerberg// Web Development// Full-stack developer// Feb 07, 2024// new// new
+emp1// 123// John Wick// Software Development// Database administrator// Feb 08, 2024// 8// 864.00
+emp2// 123// Mark Zuckerberg// Web Development// Full-stack developer// Feb 08, 2024// 5// 675.00
+emp3// 123// Bill Gates// Software Development// Full-stack developer// Feb 09, 2024// new// new
+emp1// 123// John Wick// Software Development// Database administrator// Feb 09, 2024// 8// 864.00
+emp2// 123// Mark Zuckerberg// Web Development// Full-stack developer// Feb 09, 2024// 4// 540.00
