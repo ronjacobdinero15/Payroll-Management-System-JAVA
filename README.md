@@ -21,9 +21,11 @@ Follow these steps to get the Payroll Management System up and running on your l
    git clone https://github.com/your-username/payroll-management-system.git
 
 2. **Load the files**
+
 Client and Server files
 
 3. **Inside the Client src**
+
 Fill in using your IP_ADDRESS in the AdminInterface, EmployeeInterface, LoginInterface, (if you're by yourself):
 
 ```private static final String SERVER_IP = "IP_ADDRESS";```
@@ -47,6 +49,7 @@ Password: 123
 ![Logo](https://github.com/ronjacobdinero15/Payroll-Management-System-JAVA/blob/main/miscellaneous/Screenshot_3.png?raw=true)
 
 ## Note
+
 You may download in the Eclipse Marketplace or any the "WindowBuilder Current" for ease of tweaking the user interface.
 
 ## Contributing
