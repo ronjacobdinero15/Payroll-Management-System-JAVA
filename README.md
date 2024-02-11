@@ -66,10 +66,6 @@ I welcome contributions from the community to enhance and improve the Payroll Ma
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Project Story
-
-This is a school based project from my 2nd year in college I made although it is a collaborative project w/ the whole class unfortunately I receive only very little help and support, I did almost all the workload for this project in a very limited time given for 2 weeks before deadline. From documentation, ppt, and coding. Despite all that I enjoyed my coding journey and discovered lot of things and rooms for improvements with also the help of AI. Despite that I used AI because I have a lot of network of questions myself and with using AI I believed we should only use it once and learn and try your best not to suck dry for it to do everything. I gained a lot of insights and newfound knowledge despite that I know to myself I have more rooms for improvements like using OOP. I have a very limited time left making the client and the server side, no use of database here is required and only and required the use of windows basic notepad which to me makes the streamline approach harder but still grateful for taking in and completing the project successfully. I realize that this notepad could be worth of a json file or a localStorage for the web. With this project I have proven myself and realize things I do not know to myself and to others that I can work by myself despite the pressure and deliver the project with accuracy and deliver the needs and expectation of my professor. I know there are more things outside of my scope of knowledge but I'm always happy and ready to learn and grow ever beyond my present knowledge. I always try to not make the same mistake twice. I always dream of finding people alike w/ a passion like mine for programming. Thank you for reading my README file and wish you the best in life.
-
 ## PMS Images
 
 ![Logo](https://github.com/ronjacobdinero15/Payroll-Management-System-JAVA/blob/main/miscellaneous/Screenshot_1.png?raw=true)
